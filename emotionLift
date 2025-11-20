@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy – EmotionLift</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            color: #333;
+        }
+        h1, h2 {
+            color: #1a1a1a;
+        }
+        h1 {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            margin-top: 30px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        .contact-info {
+            margin-top: 40px;
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy – EmotionLift</h1>
+
+    <p>EmotionLift (“the App”) is a mobile application designed to help users track their moods and emotions. This Privacy Policy explains how the App handles your information.</p>
+
+    <h2 id="information-we-collect">1. Information We Collect</h2>
+    <p>EmotionLift may store information that you enter into the app, such as:</p>
+    <ul>
+        <li>Mood selections</li>
+        <li>Emotion choices</li>
+        <li>Optional notes you add for your own reflection</li>
+    </ul>
+    <p>This information is stored **on your device**. We do not personally identify you through this data.</p>
+
+    <h2 id="data-storage">2. Data Storage</h2>
+    <p>Your mood entries and notes are stored **locally on your device**. If you uninstall the app, this data may be deleted from your device.</p>
+    <p>If the app uses third-party services (such as analytics or advertising networks), those services may collect certain information as described in their own privacy policies.</p>
+
+    <h2 id="third-party-services">3. Third-Party Services</h2>
+    <p>EmotionLift may use third-party services such as:</p>
+    <ul>
+        <li>Google Firebase / Analytics (for anonymous usage statistics)</li>
+        <li>Google AdMob or other ad networks (if ads are shown)</li>
+    </ul>
+    <p>These services may collect information such as device identifiers, app usage, and general location data. This is used to improve app performance and show relevant ads.</p>
+    <p>Please refer to the privacy policies of these providers for more details.</p>
+
+    <h2 id="childrens-privacy">4. Children’s Privacy</h2>
+    <p>EmotionLift is not directed to children under 13. If you are under 13, please use this app only with the permission of a parent or guardian and according to local laws.</p>
+
+    <h2 id="not-medical-advice">5. Not Medical Advice</h2>
+    <p>EmotionLift is not a medical, psychological, or crisis service. It does not provide professional diagnosis or treatment. If you are experiencing a mental health emergency, please contact local emergency services or a qualified professional.</p>
+
+    <h2 id="changes-to-this-policy">6. Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated “Last updated” date.</p>
+
+    <h2 id="contact" class="contact-info">7. Contact</h2>
+    <p>If you have any questions about this Privacy Policy, you can contact us at:</p>
+    <p><strong>[your-support-email]</strong></p>
+
+    <p style="margin-top: 50px; font-size: 0.8em; color: #666;">Last updated: November 20, 2025</p>
+
+</body>
+</html>
